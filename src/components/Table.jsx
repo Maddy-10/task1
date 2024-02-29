@@ -194,7 +194,7 @@ const Table = () => {
   return (
     <div className="absolute w-screen flex justify-end top-40 z-10">
       <table className="w-3/4 text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
-        <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+        <thead className="text-xs text-blue-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
           <tr>
             <th scope="col" className="px-6 py-3">
               S.no

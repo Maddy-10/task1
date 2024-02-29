@@ -8,7 +8,7 @@ const Dashboard = () => {
     <div className="absolute w-screen flex justify-end top-20 z-10">
       <div className=" w-3/4 py-3">
         <div className="flex justify-around px-10">
-          <h1 className="text-2xl">Dashboard</h1>
+          <h1 className="text-2xl text-blue-700">Dashboard</h1>
           <div className="h-full my-auto flex">
             <input
               placeholder="Search"
